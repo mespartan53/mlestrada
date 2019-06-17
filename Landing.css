@@ -1,0 +1,184 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron{
+    background-image: url("https://source.unsplash.com/95YRwf6CNw8");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: transparent;
+    text-align: right;
+    
+    padding-top: 15%;
+    margin-bottom: 0px;
+}
+
+.divIntro{
+    padding-left: 5px;
+    padding-bottom: 10%;
+    margin-bottom: 15%;
+}
+
+.about{
+    text-align: center;
+}
+
+.intro{
+    display: inline-block;
+    text-align: right;
+    color: white;
+    font-size: 32px;
+}
+
+#MyName{
+    font-size: 48px;
+    color: #54ffd1;
+    font-weight: 800;
+}
+
+.row{
+    text-align: center;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ff2176;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: #ff2176;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #ff2176;
+}
+
+.style11 {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+    width: 10%;
+    margin-bottom: 75px;
+}
+
+.SectOne{
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.MyLight{
+    font-size: 48px;
+    padding: 0px;
+    color: #41cca6;
+}
+
+.SubHeadings{
+    font-weight: bold;
+}
+
+.MyDesc{
+    font-size: 20px;
+    margin-bottom: 75px;
+}
+
+.photo{
+    display: inline-block;
+    height: 250px;
+}
+
+.progress-bar {
+    background-color: #41cca6; 
+}
+
+.MyStats{
+    background-color: #d1d1d1;
+    margin-left: 0px;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.MarginStats{
+    
+    margin-bottom: 75px;
+}
+
+.Stats {
+    padding-top: 5%;
+}
+
+.projects {
+    background-color: #e3e8e0;
+}
+
+.tini {
+    display: inline;
+}
+
+.projectDesc {
+    font-size: 15px;
+    text-align: left;
+}
+
+.mage {
+    color: #ff2176;
+}
+
+.PDLeft {
+    padding-left: 20px;
+    padding-right: 0px;
+}
+
+.PDRight {
+    padding-right: 20px;
+    padding-left: 0px;
+}
+
+.form-control {
+    border: 0;
+}
+
+.bttm {
+    margin-bottom: 75px;
+}
+
+.question {
+    margin-bottom: 50px;
+}
+
+.contact {
+    background-color: #a2a799;
+    color: #000000;
+    text-align: center;
+}
+.input-group .form-control {
+    margin-bottom: 10px;
+    background-color: #929799;
+    color: black;
+}
+
+.message {
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+input::-webkit-input-placeholder { 
+  color: #ff2176;
+  opacity: 1;
+}
+
+input:-ms-input-placeholder { 
+  color: #ff2176;
+}
+
+input:-ms-input-placeholder { 
+  color: #ff2176;
+}
+
+.lastMessage {
+    height: 150px;
+}
